@@ -1,0 +1,17 @@
+{
+  "name": "nhentaibot-app",
+  "version": "1.0.0",
+  "description": "/u/nhentaibot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.2",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
